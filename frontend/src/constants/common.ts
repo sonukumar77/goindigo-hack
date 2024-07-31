@@ -3,3 +3,4 @@ export enum FLIGHT_STATUS {
   "CANCELLED" = "Cancelled",
   "ON_TIME" = "On Time",
 }
+

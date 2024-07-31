@@ -1,5 +1,10 @@
 export const BRAND_NAME = "GoIndigo";
 export const DASHBOARD_TITLE = "Admin Dashboard";
+export const STATUS = [
+  "Delayed",
+  "On Time",
+  "Cancelled"
+]
 
 export const flightData = [
   {

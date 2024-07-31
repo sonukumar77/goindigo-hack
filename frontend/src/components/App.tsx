@@ -4,7 +4,6 @@ import Admin from "./Admin";
 import Aside from "./Aside";
 import Content from "./Content";
 import { BRAND_NAME } from "@/constants/data";
-import Subtitle from "./Subtitle";
 
 const asideList = [
   {
@@ -18,6 +17,7 @@ const asideList = [
     component: <Admin />,
   },
 ];
+
 
 const App = () => {
   const [currentIndex, setCurrentIndex] = useState(0);

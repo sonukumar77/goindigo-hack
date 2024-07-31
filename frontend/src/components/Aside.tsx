@@ -1,5 +1,4 @@
 import { ListItem } from "@/models/List";
-import { ReactNode } from "react";
 
 interface Props {
   asideList: ListItem[];
